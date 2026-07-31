@@ -1,0 +1,13 @@
+SAMARA CARE V12 MOBILE MENU FIX
+
+Upload and replace these files in the GitHub repository root:
+- index.html
+- 404.html
+- app.js
+- styles.css
+- service-worker.js
+
+Then open:
+https://rajaiahboomi-crypto.github.io/Samara-AL_V7/?v=12
+
+On mobile, tap the menu symbol at the top-left to open all modules.
